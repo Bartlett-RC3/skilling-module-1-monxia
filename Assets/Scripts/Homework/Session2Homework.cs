@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Session1Homework : MonoBehaviour {
+public class Session2Homework : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
