@@ -80,7 +80,6 @@
     <Compile Include="Assets\Scripts\School\Session1_OG.cs" />
     <Compile Include="Assets\Scripts\School\Session2.cs" />
     <Compile Include="Assets\Scripts\School\Session1.cs" />
-    <Compile Include="Assets\Scripts\Homework\Session1Homework 1.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
