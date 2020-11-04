@@ -75,11 +75,15 @@
     <Compile Include="Assets\Scripts\School\IHuman.cs" />
     <Compile Include="Assets\Scripts\School\Session4_Raycasting_OG.cs" />
     <Compile Include="Assets\Scripts\School\ListenScript.cs" />
+    <Compile Include="Assets\Scripts\Homework\Session1Homework.cs" />
     <Compile Include="Assets\Scripts\School\CUstomObject.cs" />
     <Compile Include="Assets\Scripts\School\Session3_OG.cs" />
     <Compile Include="Assets\Scripts\School\Session1_OG.cs" />
     <Compile Include="Assets\Scripts\School\Session2.cs" />
     <Compile Include="Assets\Scripts\School\Session1.cs" />
+    <Compile Include="Assets\Scripts\Homework\DogClass.cs" />
+    <Compile Include="Assets\Scripts\Homework\DogClassHandler.cs" />
+    <Compile Include="Assets\Scripts\Homework\Doger.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

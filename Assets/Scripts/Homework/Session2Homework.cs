@@ -14,7 +14,7 @@ public class Session2Homework : MonoBehaviour {
 
 	{
 
-		for (int i = 0; i <= poet.Length; i++)
+		for (int i = 0; i < poet.Length; i++)
 		{
 			char letter = poet[i];
 			Debug.LogFormat("'{0}';{1}", letter, char.GetUnicodeCategory(letter));
