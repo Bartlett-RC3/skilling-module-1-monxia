@@ -62,6 +62,7 @@
     <Compile Include="Assets\Scripts\School\Session1_19.cs" />
     <Compile Include="Assets\Scripts\School\AnimalHandler.cs" />
     <Compile Include="Assets\Scripts\School\Session3.cs" />
+    <Compile Include="Assets\Scripts\Homework\DogClass.cs" />
     <Compile Include="Assets\Scripts\School\Session5.cs" />
     <Compile Include="Assets\Scripts\School\Animals.cs" />
     <Compile Include="Assets\Scripts\School\Session4_OG.cs" />
@@ -79,11 +80,11 @@
     <Compile Include="Assets\Scripts\School\CUstomObject.cs" />
     <Compile Include="Assets\Scripts\School\Session3_OG.cs" />
     <Compile Include="Assets\Scripts\School\Session1_OG.cs" />
-    <Compile Include="Assets\Scripts\School\Session2.cs" />
-    <Compile Include="Assets\Scripts\School\Session1.cs" />
-    <Compile Include="Assets\Scripts\Homework\DogClass.cs" />
     <Compile Include="Assets\Scripts\Homework\DogClassHandler.cs" />
+    <Compile Include="Assets\Scripts\School\Session2.cs" />
     <Compile Include="Assets\Scripts\Homework\Doger.cs" />
+    <Compile Include="Assets\Scripts\School\Session1.cs" />
+    <Compile Include="Assets\Scripts\Homework\Session3Homework.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
